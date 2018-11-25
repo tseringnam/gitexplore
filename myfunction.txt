@@ -1,1 +1,3 @@
 one function - i have added a very important function 
+two function - i have added  another a very important function 
+three function - unneccesary function
