@@ -8,3 +8,4 @@ assets /VideoTrackList
 *.mp4
 !app.js
 Ds_store
+*.php
