@@ -1,4 +1,4 @@
-//this is a comment
+//this a comment
 .js
 
 node_module/
