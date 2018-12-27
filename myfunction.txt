@@ -1,5 +1,5 @@
-one function - i have added a very important function 
-two function - i have added  another a very important function 
+one function - i have added a very important function
+two function - i have added  another a very important function
 three function - unneccesary function
 
-added charfunction in our  branch
+added char function in our  branch. 
